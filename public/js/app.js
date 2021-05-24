@@ -1,6 +1,3 @@
-console.log("clint side is up and running !")
-
-
 const weatherform = document.querySelector('form')
 const search = document.querySelector('input')
 const messageone = document.querySelector('#message-1')
