@@ -12,6 +12,8 @@ weatherform.addEventListener('submit',(e)=>{
     
       if(data.error){
         messageone.textContent = data.error
+
+        
         messagetwo.textContent = ""
       }
       else{
